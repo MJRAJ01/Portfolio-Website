@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce7dcac2.chunk.css",
+    "main.js": "/static/js/main.cb8a0ec2.chunk.js",
+    "main.js.map": "/static/js/main.cb8a0ec2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8d0c8c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8d0c8c2.js.map",
+    "static/js/2.23304cff.chunk.js": "/static/js/2.23304cff.chunk.js",
+    "static/js/2.23304cff.chunk.js.map": "/static/js/2.23304cff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.283342371ce61e2fc3abf592faadf1a9.js": "/precache-manifest.283342371ce61e2fc3abf592faadf1a9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ce7dcac2.chunk.css.map": "/static/css/main.ce7dcac2.chunk.css.map",
+    "static/media/Link.module.css": "/static/media/desk-top.cb03ff00.jpg",
+    "static/media/github.png": "/static/media/github.e8e32211.png",
+    "static/media/gmail.png": "/static/media/gmail.b9ddd985.png",
+    "static/media/linkedin.png": "/static/media/linkedin.3f60edfd.png",
+    "static/media/logo-r.png": "/static/media/logo-r.5cbef245.png",
+    "static/media/matlab-logo.png": "/static/media/matlab-logo.ebf185db.png",
+    "static/media/python-logo.png": "/static/media/python-logo.067050f6.png",
+    "static/media/vandy-logo.png": "/static/media/vandy-logo.9d295666.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d0c8c2.js",
+    "static/js/2.23304cff.chunk.js",
+    "static/css/main.ce7dcac2.chunk.css",
+    "static/js/main.cb8a0ec2.chunk.js"
+  ]
+}
